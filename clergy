@@ -19,7 +19,8 @@
         "church_name": "Holy Trinity Cathedral",
         "ethnicity_name": "Kayin (Pwo)",
         "position_name": "Archbishop",
-        "diocese_name": "Yangon"
+        "diocese_name": "Yangon",
+        "profile": "19072021064543htc.jpg"
     },
     {
         "clergy_id": "68",
@@ -41,7 +42,8 @@
         "church_name": null,
         "ethnicity_name": "Kachin",
         "position_name": null,
-        "diocese_name": "Myitkyina"
+        "diocese_name": "Myitkyina",
+        "profile": null
     },
     {
         "clergy_id": "37",
@@ -63,7 +65,8 @@
         "church_name": null,
         "ethnicity_name": "Kachin",
         "position_name": "Priest in Charge",
-        "diocese_name": "Myitkyina"
+        "diocese_name": "Myitkyina",
+        "profile": null
     },
     {
         "clergy_id": "56",
@@ -85,7 +88,8 @@
         "church_name": null,
         "ethnicity_name": "Kachin",
         "position_name": null,
-        "diocese_name": "Myitkyina"
+        "diocese_name": "Myitkyina",
+        "profile": null
     },
     {
         "clergy_id": "38",
@@ -107,7 +111,8 @@
         "church_name": null,
         "ethnicity_name": "Kachin",
         "position_name": "Priest in Charge",
-        "diocese_name": "Myitkyina"
+        "diocese_name": "Myitkyina",
+        "profile": null
     },
     {
         "clergy_id": "47",
@@ -129,7 +134,8 @@
         "church_name": null,
         "ethnicity_name": "Kachin",
         "position_name": "Priest in Charge",
-        "diocese_name": "Myitkyina"
+        "diocese_name": "Myitkyina",
+        "profile": null
     },
     {
         "clergy_id": "41",
@@ -151,7 +157,8 @@
         "church_name": null,
         "ethnicity_name": "Kachin",
         "position_name": "Priest in Charge",
-        "diocese_name": "Myitkyina"
+        "diocese_name": "Myitkyina",
+        "profile": null
     },
     {
         "clergy_id": "57",
@@ -173,7 +180,8 @@
         "church_name": null,
         "ethnicity_name": "Kachin",
         "position_name": null,
-        "diocese_name": "Myitkyina"
+        "diocese_name": "Myitkyina",
+        "profile": null
     },
     {
         "clergy_id": "36",
@@ -195,7 +203,8 @@
         "church_name": null,
         "ethnicity_name": "Kachin",
         "position_name": "Priest in Charge",
-        "diocese_name": "Myitkyina"
+        "diocese_name": "Myitkyina",
+        "profile": null
     },
     {
         "clergy_id": "44",
@@ -217,7 +226,8 @@
         "church_name": null,
         "ethnicity_name": "Kachin",
         "position_name": "Priest in Charge",
-        "diocese_name": "Myitkyina"
+        "diocese_name": "Myitkyina",
+        "profile": null
     },
     {
         "clergy_id": "58",
@@ -239,7 +249,8 @@
         "church_name": null,
         "ethnicity_name": "Kachin",
         "position_name": null,
-        "diocese_name": "Myitkyina"
+        "diocese_name": "Myitkyina",
+        "profile": null
     },
     {
         "clergy_id": "54",
@@ -261,7 +272,8 @@
         "church_name": null,
         "ethnicity_name": "Kachin",
         "position_name": null,
-        "diocese_name": "Myitkyina"
+        "diocese_name": "Myitkyina",
+        "profile": null
     },
     {
         "clergy_id": "49",
@@ -283,7 +295,8 @@
         "church_name": null,
         "ethnicity_name": "Kachin",
         "position_name": "Priest in Charge",
-        "diocese_name": "Myitkyina"
+        "diocese_name": "Myitkyina",
+        "profile": null
     },
     {
         "clergy_id": "43",
@@ -305,7 +318,8 @@
         "church_name": null,
         "ethnicity_name": "Kachin",
         "position_name": "Priest in Charge",
-        "diocese_name": "Myitkyina"
+        "diocese_name": "Myitkyina",
+        "profile": null
     },
     {
         "clergy_id": "53",
@@ -327,7 +341,8 @@
         "church_name": null,
         "ethnicity_name": "Kachin",
         "position_name": "Priest in Charge",
-        "diocese_name": "Myitkyina"
+        "diocese_name": "Myitkyina",
+        "profile": null
     },
     {
         "clergy_id": "66",
@@ -349,7 +364,8 @@
         "church_name": null,
         "ethnicity_name": "Kachin",
         "position_name": null,
-        "diocese_name": "Myitkyina"
+        "diocese_name": "Myitkyina",
+        "profile": null
     },
     {
         "clergy_id": "61",
@@ -371,7 +387,8 @@
         "church_name": null,
         "ethnicity_name": "Kachin",
         "position_name": null,
-        "diocese_name": "Myitkyina"
+        "diocese_name": "Myitkyina",
+        "profile": null
     },
     {
         "clergy_id": "51",
@@ -393,7 +410,8 @@
         "church_name": null,
         "ethnicity_name": "Kachin",
         "position_name": "Priest in Charge",
-        "diocese_name": "Myitkyina"
+        "diocese_name": "Myitkyina",
+        "profile": null
     },
     {
         "clergy_id": "40",
@@ -415,7 +433,8 @@
         "church_name": null,
         "ethnicity_name": "Kachin",
         "position_name": "Priest in Charge",
-        "diocese_name": "Myitkyina"
+        "diocese_name": "Myitkyina",
+        "profile": null
     },
     {
         "clergy_id": "67",
@@ -437,7 +456,8 @@
         "church_name": null,
         "ethnicity_name": "Kachin",
         "position_name": null,
-        "diocese_name": "Myitkyina"
+        "diocese_name": "Myitkyina",
+        "profile": null
     },
     {
         "clergy_id": "46",
@@ -459,7 +479,8 @@
         "church_name": null,
         "ethnicity_name": "Kachin",
         "position_name": "Priest in Charge",
-        "diocese_name": "Myitkyina"
+        "diocese_name": "Myitkyina",
+        "profile": null
     },
     {
         "clergy_id": "50",
@@ -481,7 +502,8 @@
         "church_name": null,
         "ethnicity_name": "Kachin",
         "position_name": null,
-        "diocese_name": "Myitkyina"
+        "diocese_name": "Myitkyina",
+        "profile": null
     },
     {
         "clergy_id": "65",
@@ -503,7 +525,8 @@
         "church_name": null,
         "ethnicity_name": "Kachin",
         "position_name": null,
-        "diocese_name": "Myitkyina"
+        "diocese_name": "Myitkyina",
+        "profile": null
     },
     {
         "clergy_id": "45",
@@ -525,7 +548,8 @@
         "church_name": null,
         "ethnicity_name": "Kachin",
         "position_name": "Priest in Charge",
-        "diocese_name": "Myitkyina"
+        "diocese_name": "Myitkyina",
+        "profile": null
     },
     {
         "clergy_id": "55",
@@ -547,7 +571,8 @@
         "church_name": null,
         "ethnicity_name": "Kachin",
         "position_name": null,
-        "diocese_name": "Myitkyina"
+        "diocese_name": "Myitkyina",
+        "profile": null
     },
     {
         "clergy_id": "39",
@@ -569,7 +594,8 @@
         "church_name": null,
         "ethnicity_name": "Kachin",
         "position_name": "Priest in Charge",
-        "diocese_name": "Myitkyina"
+        "diocese_name": "Myitkyina",
+        "profile": null
     },
     {
         "clergy_id": "60",
@@ -591,7 +617,8 @@
         "church_name": null,
         "ethnicity_name": "Kachin",
         "position_name": null,
-        "diocese_name": "Myitkyina"
+        "diocese_name": "Myitkyina",
+        "profile": null
     },
     {
         "clergy_id": "48",
@@ -613,7 +640,8 @@
         "church_name": null,
         "ethnicity_name": "Kachin",
         "position_name": "Priest in Charge",
-        "diocese_name": "Myitkyina"
+        "diocese_name": "Myitkyina",
+        "profile": null
     },
     {
         "clergy_id": "42",
@@ -635,7 +663,8 @@
         "church_name": null,
         "ethnicity_name": "Kachin",
         "position_name": "Priest in Charge",
-        "diocese_name": "Myitkyina"
+        "diocese_name": "Myitkyina",
+        "profile": null
     },
     {
         "clergy_id": "59",
@@ -657,7 +686,8 @@
         "church_name": null,
         "ethnicity_name": "Kachin",
         "position_name": null,
-        "diocese_name": "Myitkyina"
+        "diocese_name": "Myitkyina",
+        "profile": null
     },
     {
         "clergy_id": "64",
@@ -679,7 +709,8 @@
         "church_name": null,
         "ethnicity_name": "Kachin",
         "position_name": null,
-        "diocese_name": "Myitkyina"
+        "diocese_name": "Myitkyina",
+        "profile": null
     },
     {
         "clergy_id": "63",
@@ -701,7 +732,8 @@
         "church_name": null,
         "ethnicity_name": "Kachin",
         "position_name": null,
-        "diocese_name": "Myitkyina"
+        "diocese_name": "Myitkyina",
+        "profile": null
     },
     {
         "clergy_id": "62",
@@ -723,7 +755,8 @@
         "church_name": null,
         "ethnicity_name": "Kachin",
         "position_name": null,
-        "diocese_name": "Myitkyina"
+        "diocese_name": "Myitkyina",
+        "profile": null
     },
     {
         "clergy_id": "52",
@@ -745,7 +778,8 @@
         "church_name": null,
         "ethnicity_name": "Kachin",
         "position_name": "Priest in Charge",
-        "diocese_name": "Myitkyina"
+        "diocese_name": "Myitkyina",
+        "profile": null
     },
     {
         "clergy_id": "34",
@@ -767,7 +801,8 @@
         "church_name": null,
         "ethnicity_name": null,
         "position_name": "Assistant Priest",
-        "diocese_name": "Yangon"
+        "diocese_name": "Yangon",
+        "profile": null
     },
     {
         "clergy_id": "33",
@@ -789,7 +824,8 @@
         "church_name": null,
         "ethnicity_name": null,
         "position_name": "Assistant Priest",
-        "diocese_name": "Yangon"
+        "diocese_name": "Yangon",
+        "profile": null
     },
     {
         "clergy_id": "32",
@@ -811,7 +847,8 @@
         "church_name": null,
         "ethnicity_name": null,
         "position_name": "Priest in Charge",
-        "diocese_name": "Yangon"
+        "diocese_name": "Yangon",
+        "profile": null
     },
     {
         "clergy_id": "31",
@@ -833,7 +870,8 @@
         "church_name": null,
         "ethnicity_name": null,
         "position_name": "Priest in Charge",
-        "diocese_name": "Yangon"
+        "diocese_name": "Yangon",
+        "profile": null
     },
     {
         "clergy_id": "29",
@@ -855,7 +893,8 @@
         "church_name": null,
         "ethnicity_name": null,
         "position_name": "Assistant Priest",
-        "diocese_name": "Yangon"
+        "diocese_name": "Yangon",
+        "profile": null
     },
     {
         "clergy_id": "28",
@@ -877,7 +916,8 @@
         "church_name": null,
         "ethnicity_name": null,
         "position_name": "Assistant Priest",
-        "diocese_name": "Yangon"
+        "diocese_name": "Yangon",
+        "profile": null
     },
     {
         "clergy_id": "27",
@@ -899,7 +939,8 @@
         "church_name": null,
         "ethnicity_name": null,
         "position_name": "Assistant Priest",
-        "diocese_name": "Yangon"
+        "diocese_name": "Yangon",
+        "profile": null
     },
     {
         "clergy_id": "26",
@@ -921,7 +962,8 @@
         "church_name": null,
         "ethnicity_name": null,
         "position_name": "Assistant Priest",
-        "diocese_name": "Yangon"
+        "diocese_name": "Yangon",
+        "profile": null
     },
     {
         "clergy_id": "25",
@@ -943,7 +985,8 @@
         "church_name": "Holy Trinity Cathedral",
         "ethnicity_name": null,
         "position_name": "Priest in Charge",
-        "diocese_name": "Yangon"
+        "diocese_name": "Yangon",
+        "profile": "19072021064543htc.jpg"
     },
     {
         "clergy_id": "22",
@@ -965,7 +1008,8 @@
         "church_name": null,
         "ethnicity_name": null,
         "position_name": "Assistant Priest",
-        "diocese_name": "Yangon"
+        "diocese_name": "Yangon",
+        "profile": null
     },
     {
         "clergy_id": "21",
@@ -987,7 +1031,8 @@
         "church_name": null,
         "ethnicity_name": null,
         "position_name": "Assistant Priest",
-        "diocese_name": "Yangon"
+        "diocese_name": "Yangon",
+        "profile": null
     },
     {
         "clergy_id": "23",
@@ -1009,7 +1054,8 @@
         "church_name": null,
         "ethnicity_name": null,
         "position_name": "Assistant Priest",
-        "diocese_name": "Yangon"
+        "diocese_name": "Yangon",
+        "profile": null
     },
     {
         "clergy_id": "20",
@@ -1031,7 +1077,8 @@
         "church_name": null,
         "ethnicity_name": null,
         "position_name": "Assistant Priest",
-        "diocese_name": "Yangon"
+        "diocese_name": "Yangon",
+        "profile": null
     },
     {
         "clergy_id": "1",
@@ -1053,7 +1100,8 @@
         "church_name": "St. Barnabas Church",
         "ethnicity_name": "Kayin (Sagaw)",
         "position_name": "Priest in Charge",
-        "diocese_name": "Yangon"
+        "diocese_name": "Yangon",
+        "profile": "19072021035356"
     },
     {
         "clergy_id": "19",
@@ -1075,7 +1123,8 @@
         "church_name": null,
         "ethnicity_name": null,
         "position_name": "Priest in Charge",
-        "diocese_name": "Yangon"
+        "diocese_name": "Yangon",
+        "profile": null
     },
     {
         "clergy_id": "15",
@@ -1097,7 +1146,8 @@
         "church_name": null,
         "ethnicity_name": null,
         "position_name": "Assistant Priest",
-        "diocese_name": "Yangon"
+        "diocese_name": "Yangon",
+        "profile": null
     },
     {
         "clergy_id": "18",
@@ -1119,7 +1169,8 @@
         "church_name": null,
         "ethnicity_name": null,
         "position_name": "Assistant Priest",
-        "diocese_name": "Yangon"
+        "diocese_name": "Yangon",
+        "profile": null
     },
     {
         "clergy_id": "17",
@@ -1141,7 +1192,8 @@
         "church_name": null,
         "ethnicity_name": null,
         "position_name": "Assistant Priest",
-        "diocese_name": "Yangon"
+        "diocese_name": "Yangon",
+        "profile": null
     },
     {
         "clergy_id": "7",
@@ -1163,7 +1215,8 @@
         "church_name": null,
         "ethnicity_name": null,
         "position_name": "Deacon",
-        "diocese_name": "Yangon"
+        "diocese_name": "Yangon",
+        "profile": null
     },
     {
         "clergy_id": "16",
@@ -1185,7 +1238,8 @@
         "church_name": "St. Barnabas Church",
         "ethnicity_name": null,
         "position_name": "Assistant Priest",
-        "diocese_name": "Yangon"
+        "diocese_name": "Yangon",
+        "profile": "19072021035356"
     },
     {
         "clergy_id": "4",
@@ -1207,7 +1261,8 @@
         "church_name": "All Saints Church",
         "ethnicity_name": "Kayin (Pwo)",
         "position_name": "Priest in Charge",
-        "diocese_name": "Yangon"
+        "diocese_name": "Yangon",
+        "profile": "19072021062650all-saint.jpg"
     },
     {
         "clergy_id": "2",
@@ -1229,7 +1284,8 @@
         "church_name": "St. Stephen Congregation",
         "ethnicity_name": "Kayin (Sagaw)",
         "position_name": "Associate Priest",
-        "diocese_name": "Yangon"
+        "diocese_name": "Yangon",
+        "profile": "19072021051328"
     },
     {
         "clergy_id": "30",
@@ -1251,7 +1307,8 @@
         "church_name": "Christ The King Church",
         "ethnicity_name": null,
         "position_name": "Priest in Charge",
-        "diocese_name": "Yangon"
+        "diocese_name": "Yangon",
+        "profile": "19072021063203ctk.jpg"
     },
     {
         "clergy_id": "24",
@@ -1273,7 +1330,8 @@
         "church_name": null,
         "ethnicity_name": null,
         "position_name": "Assistant Priest",
-        "diocese_name": "Yangon"
+        "diocese_name": "Yangon",
+        "profile": null
     },
     {
         "clergy_id": "12",
@@ -1295,7 +1353,8 @@
         "church_name": null,
         "ethnicity_name": null,
         "position_name": "Assistant Priest",
-        "diocese_name": "Yangon"
+        "diocese_name": "Yangon",
+        "profile": null
     },
     {
         "clergy_id": "3",
@@ -1317,7 +1376,8 @@
         "church_name": "St. Michael Church",
         "ethnicity_name": "Burma",
         "position_name": "Priest in Charge",
-        "diocese_name": "Yangon"
+        "diocese_name": "Yangon",
+        "profile": "19072021065017smc-kmd.jpg"
     },
     {
         "clergy_id": "14",
@@ -1339,7 +1399,8 @@
         "church_name": null,
         "ethnicity_name": null,
         "position_name": "Assistant Priest",
-        "diocese_name": "Yangon"
+        "diocese_name": "Yangon",
+        "profile": null
     },
     {
         "clergy_id": "13",
@@ -1361,7 +1422,8 @@
         "church_name": null,
         "ethnicity_name": null,
         "position_name": "Priest in Charge",
-        "diocese_name": "Yangon"
+        "diocese_name": "Yangon",
+        "profile": null
     },
     {
         "clergy_id": "10",
@@ -1383,7 +1445,8 @@
         "church_name": null,
         "ethnicity_name": null,
         "position_name": "Assistant Priest",
-        "diocese_name": "Yangon"
+        "diocese_name": "Yangon",
+        "profile": null
     },
     {
         "clergy_id": "9",
@@ -1405,7 +1468,8 @@
         "church_name": null,
         "ethnicity_name": null,
         "position_name": "Assistant Priest",
-        "diocese_name": "Yangon"
+        "diocese_name": "Yangon",
+        "profile": null
     },
     {
         "clergy_id": "11",
@@ -1427,7 +1491,8 @@
         "church_name": null,
         "ethnicity_name": null,
         "position_name": "Assistant Priest",
-        "diocese_name": "Yangon"
+        "diocese_name": "Yangon",
+        "profile": null
     },
     {
         "clergy_id": "8",
@@ -1449,7 +1514,8 @@
         "church_name": null,
         "ethnicity_name": null,
         "position_name": "Priest in Charge",
-        "diocese_name": "Yangon"
+        "diocese_name": "Yangon",
+        "profile": null
     },
     {
         "clergy_id": "6",
@@ -1471,7 +1537,8 @@
         "church_name": null,
         "ethnicity_name": null,
         "position_name": "Bishop",
-        "diocese_name": "Yangon"
+        "diocese_name": "Yangon",
+        "profile": null
     },
     {
         "clergy_id": "35",
@@ -1493,6 +1560,7 @@
         "church_name": null,
         "ethnicity_name": "Kachin",
         "position_name": "Bishop",
-        "diocese_name": "Myitkyina"
+        "diocese_name": "Myitkyina",
+        "profile": null
     }
 ]
